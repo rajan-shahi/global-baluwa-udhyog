@@ -60,9 +60,9 @@ export default function Footer() {
             href="https://www.cloudsnepalweb.com/"
             className="mt-4 sm:mt-0 text-gray-100 hover:text-gray-300"
           >
-            develop and design by{" "}
-            <span className=" text-gray-400 underline ">
-              Clouds Nepal Web Pvt.Ltd
+            Develop And Design by{" "} 
+            <span className=" px-1 text-gray-400 underline ">
+              Clouds Nepal Web Pvt.Ltd 
             </span>{" "}
             &copy; 2024
           </a>
